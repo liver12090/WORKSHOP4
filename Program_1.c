@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 int isPrime(int n)
 {
     if(n<2) return 0;if(n==2) return 1;
