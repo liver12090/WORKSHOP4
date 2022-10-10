@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 double fibo(int n)
 {
 	int t1=1,t2=1,f=1;
